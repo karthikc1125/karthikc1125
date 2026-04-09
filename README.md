@@ -43,13 +43,7 @@ approach: Build scalable and production-ready systems
   <img src="https://streak-stats.demolab.com?user=karthikc1125&theme=github-dark&hide_border=true" height="150"/>
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikc1125&layout=compact&theme=github_dark&hide_border=true"/>
-</p>---
 
-📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikc1125&theme=github-dark&hide_border=true"/>
-</p>---
 📊 GitHub Analytics
 
 <p align="center">
