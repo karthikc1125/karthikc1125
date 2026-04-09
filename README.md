@@ -9,15 +9,23 @@
   </a>
 </p>---
 
-🧠 About Me
+🧠 AboutMe
 
-name: Karthik C
-role: Entry-Level Software Engineer
-focus: Backend Systems + Full Stack Development
-specialization: Code Analysis & Structured Logic Systems
-approach: Build scalable and production-ready systems
+Name: Karthik C
 
----
+Education: FinalYearCSE @ GovernmentEngineeringCollegeMosalehosahalli
+
+Focus: BackendSystems + FullStackDevelopment
+
+TechStack: Python, C, JavaScript, SQL, React, NodeJS, Express
+
+Experience: WebDevelopmentIntern @ NanoStreamTechnologies
+
+FinalYear ComputerScienceEngineering student with handsOn experience in FullStack development and BackendSystems.
+
+Skilled in building structured, logicDriven applications with exposure to AI/ML concepts.
+
+Actively seeking EntryLevel SoftwareEngineering roles to build scalable systems and contribute to realWorld products.
 
 🌐 Connect
 
@@ -34,15 +42,7 @@ approach: Build scalable and production-ready systems
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nodejs,express,mongodb,mysql,gcp,git,github,tensorflow,pytorch&perline=8" />
-</p>---
 
-📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikc1125&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=karthikc1125&theme=github-dark&hide_border=true" height="150"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikc1125&layout=compact&theme=github_dark&hide_border=true"/>
 
 📊 GitHub Analytics
 
