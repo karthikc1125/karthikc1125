@@ -7,9 +7,9 @@
   <a href="https://github.com/karthikc1125?tab=followers">
     <img src="https://img.shields.io/github/followers/karthikc1125?label=Followers&style=social" />
   </a>
-</p>---
+</p>
 
-🧠 AboutMe
+
 
 Name: Karthik C
 
